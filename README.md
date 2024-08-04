@@ -1,5 +1,5 @@
 # temp-forecast
-Forecasting temperature time series using recurrent neural networks (by Pavel Mikhailov and Anton Oreshkin).
+Forecasting temperature time series using recurrent neural networks.
 
 ### Dataset
 Datasets can be sent upon personal request
